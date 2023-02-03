@@ -1,0 +1,30 @@
+*{
+    font-family: 'Galindo', cursive;
+    color: white;
+}
+
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #4522A9;
+    width: 650px;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    border-radius: 84px;
+    margin: auto;
+}
+h1{
+    font-size: 64px;
+    margin-bottom: 173px;
+}
+img{
+    height: 177px;
+    width: 177px;
+    border-radius: 0px;
+}
