@@ -21,10 +21,25 @@ div{
 }
 h1{
     font-size: 64px;
-    margin-bottom: 173px;
+    margin-bottom: 67px;
 }
 img{
     height: 177px;
     width: 177px;
     border-radius: 0px;
+}
+p{
+    font-size: 32px;
+    margin-bottom: 78px;
+}
+a{
+    text-decoration: none;
+    margin-bottom: 108px;
+    width: 252px;
+    height: 52px;
+    font-size: 24px;
+    padding: 9px 79px;
+    background-color: #FABE2C;
+    text-align: center;
+    border-radius: 38px;
 }
