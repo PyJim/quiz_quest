@@ -20,7 +20,8 @@
         
         <form action="{{ url_for('quiz', question_id=question_id) }}" method="post">
             {% for option in options %}
-            <h4><input type="radio" name="answer" value="{{ option }}" class="radio">{{ option }}</h4><br>
+            <h4><input type="radio" name="answer" value="{{ option }}" class="radio">
+                <label for="radio">{{ option }}</label></h4><br>
             {% endfor %}
             
 
