@@ -54,8 +54,8 @@ img{
 }
 .radio{
     margin-right: 50px;
-    accent-color: #FABE2C;
-    border-color: #FABE2C;
+    accent-color: rgba(41, 55, 109, 1);
+    border-color: #4522A9;
     height: 32px;
     width: 32px;
 }
